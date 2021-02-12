@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package datos;
-import domain.Usuario;
+import dominio.Usuario;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;

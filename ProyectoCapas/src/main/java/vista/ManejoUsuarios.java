@@ -1,7 +1,7 @@
 package vista;
 
 import datos.UsuarioDAO;
-import domain.Usuario;
+import dominio.Usuario;
 import java.util.List;
 
 public class ManejoUsuarios {

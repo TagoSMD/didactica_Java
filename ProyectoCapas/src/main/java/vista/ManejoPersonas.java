@@ -6,7 +6,7 @@
 package vista;
 
 import datos.PersonaDAO;
-import domain.Persona;
+import dominio.Persona;
 import java.util.List;
 
 /**
